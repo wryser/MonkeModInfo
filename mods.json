@@ -161,18 +161,6 @@
        ]
      },
      {
-      "name" : "Practice Mod",
-      "tag" : "",
-      "gitPath" : "Graicc/PracticeMod",
-      "releaseId" : 0,
-      "author" : "Graic",
-      "group" : "Gameplay",
-      "dependencies" : [
-       "Utilla",
-       "Computer Interface"
-      ]
-     },
-     {
       "name" : "Slippery Ice",
       "tag" : "",
       "gitPath" : "fchb1239/SlipperyIce",
@@ -216,14 +204,6 @@
         "dependencies" : [
           "Utilla"
          ]
-     },
-     {
-      "name" : "BrokenController",
-      "tag" : "",
-      "gitPath" : "AHauntedArmy/BrokenController",
-      "releaseId" : 0,
-      "author" : "A Haunted Army",
-      "group" : "Tweaks / Tools"
      },
      {
       "name" : "Haunted Mod Menu",
