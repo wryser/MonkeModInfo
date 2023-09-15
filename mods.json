@@ -240,14 +240,6 @@
        ]
      },
      {
-      "name" : "NoAmbient",
-      "tag" : "",
-      "gitPath" : "RusJJ/NoAmbient",
-      "releaseId" : 0,
-      "author" : "[-=KILL MAN=-] aka RusJJ",
-      "group" : "Tweaks / Tools"
-     },
-     {
       "name" : "YURFitGorillaTag",
       "tag" : "",
       "gitPath" : "AHauntedArmy/YURFitGorillaTag",
