@@ -25,7 +25,7 @@
       "tag" : "",
       "gitPath" : "BzzzThe18th/Rain-Disabler-PC",
       "releaseId" : 0,
-      "author" : "Buzz Bzzz bzz BZZZ The 18th",
+      "author" : "buzzbb",
       "group" : "Cosmetic",
       "dependencies" : [
        "Utilla"
@@ -57,9 +57,9 @@
      {
       "name" : "GripMonke",
       "tag" : "",
-      "gitPath" : "WowItsKaylie/GripMonke",
+      "gitPath" : "lunakittyyy/GripMonke",
       "releaseId" : 0,
-      "author" : "Lillie",
+      "author" : "lunakittyyy",
       "group" : "Gameplay",
       "dependencies" : [
        "Utilla",
@@ -83,12 +83,25 @@
       "tag" : "",
       "gitPath" : "BzzzThe18th/IronMonkePC",
       "releaseId" : 0,
-      "author" : "Buzz Bzzz bzz BZZZ The 18th",
+      "author" : "buzzbb",
       "group" : "Gameplay",
       "dependencies" : [
-       "Utilla"
+       "Utilla",
+       "HoneyLib"
       ]
      },
+     {
+       "name" : "Gorilla Shotgun",
+       "tag" : "",
+       "gitPath" "BzzzThe18th/GorillaShotgun",
+       "releaseId" : 0,
+       "author" : "buzzbb",
+       "group" : "",
+       "dependencies" : [
+         "Utilla",
+         "HoneyLib"
+       ]
+     }
      {
         "name" : "Monke Bazooka",
         "tag" : "",
@@ -106,7 +119,7 @@
       "tag" : "",
       "gitPath" : "BzzzThe18th/Marry-Poppins-PC",
       "releaseId" : 0,
-      "author" : "Buzz Bzzz bzz BZZZ The 18th",
+      "author" : "buzzbb",
       "group" : "Gameplay",
       "dependencies" : [
        "Utilla"
@@ -117,7 +130,7 @@
       "tag" : "",
       "gitPath" : "BzzzThe18th/Grav-Monke-PC",
       "releaseId" : 0,
-      "author" : "Buzz Bzzz bzz BZZZ The 18th",
+      "author" : "buzzbb",
       "group" : "Gameplay",
       "dependencies" : [
        "Utilla"
@@ -284,6 +297,14 @@
          "Bepinject"
        ]
      },
+     {
+       "name" : "HoneyLib",
+       "tag" : "",
+       "gitPath" : "BzzzThe18th/HoneyLib"
+       "releaseId" : 0,
+       "author" : "buzzbb",
+       "group" : "Libraries",
+     }
      {
        "name" : "Bepinject",
        "tag" : "",
