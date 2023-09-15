@@ -1,5 +1,5 @@
 {
-  "$id": "https://github.com/DeadlyKitten/MonkeModInfo/mods.schema.json",
+  "$id": "https://github.com/BzzzThe18th/MonkeModInfo/mods.schema.json",
   "type": "object",
   "required": ["mods", "groups"],
   "properties": {
