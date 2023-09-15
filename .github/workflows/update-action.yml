@@ -33,8 +33,8 @@ jobs:
     - name: Commit Latest Release Version
       if: steps.git-check.outputs.modified == 'true'
       run: |
-        git config --global user.name 'DeadlyKitten'
-        git config --global user.email 'DeadlyKitten@users.noreply.github.com'
+        git config --global user.name 'BzzzThe18th'
+        git config --global user.email 'BzzzThe18th@users.noreply.github.com'
         git add modinfo.json
         git commit -am "Update modinfo.json"
         git push
