@@ -299,10 +299,10 @@
   },
   {
     "name": "Utilla",
-    "author": "Bobbie",
+    "author": "Bobbie & Graic",
     "version": "1.6.10",
     "git_path": "legoandmars/Utilla",
-    "group": "Libraries",
+    "group": "Core",
     "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.10/Utilla.zip"
   },
   {
