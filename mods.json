@@ -256,7 +256,7 @@
         "gitPath" : "legoandmars/Utilla",
         "releaseId" : 0,
         "author" : "Bobbie",
-        "group" : "Libraries"
+        "group" : "Core"
      },
      {
        "name" : "Computer Interface",
