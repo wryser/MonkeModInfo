@@ -21,7 +21,7 @@
   },
   {
     "name": "Computer Interface",
-    "author": "Toni Macaroni",
+    "author": "tonimacaroni",
     "version": "1.6.1",
     "dependencies": [
       "Bepinject"
@@ -61,6 +61,17 @@
     "git_path": "BzzzThe18th/GOOMPS",
     "group": "Cosmetic",
     "download_url": "https://github.com/BzzzThe18th/GOOMPS/releases/download/1.0.1/GOOMPS.dll"
+  },
+  {
+    "name": "Gorilla Roulette",
+    "author": "awesome_phoenix",
+    "version": "1.0.3",
+    "dependencies": [
+      "HoneyLib"
+    ],
+    "git_path": "BrokenSt0ne/GorillaRoulette",
+    "group": "Gameplay",
+    "download_url": "https://github.com/BrokenSt0ne/GorillaRoulette/releases/download/1.0.3/GorillaRoulette-v1.0.3.zip"
   },
   {
     "name": "Gorilla Shotgun",
@@ -116,7 +127,7 @@
   },
   {
     "name": "TMPLoader",
-    "author": "A Haunted Army",
+    "author": "ahauntedarmy",
     "version": "1.0.2",
     "git_path": "AHauntedArmy/TMPLoader",
     "group": "Libraries",
@@ -124,7 +135,7 @@
   },
   {
     "name": "Utilla",
-    "author": "Bobbie",
+    "author": "bobbievr",
     "version": "1.6.10",
     "git_path": "legoandmars/Utilla",
     "group": "Core",
