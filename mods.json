@@ -36,7 +36,7 @@
 			"gitPath": "BzzzThe18th/GorillaShotgun",
 			"releaseId": 0,
 			"author": "buzzbb",
-			"group": "",
+			"group": "Gameplay",
 			"dependencies": [
 				"Utilla",
 				"HoneyLib"
