@@ -45,7 +45,8 @@
     "version": "1.0.0",
     "dependencies": [
       "Utilla",
-      "HoneyLib"
+      "HoneyLib",
+      "ComputerInterface"
     ],
     "git_path": "BzzzThe18th/GorillaShotgun",
     "group": "Gameplay",
@@ -78,17 +79,6 @@
     "git_path": "legoandmars/Newtonsoft.Json",
     "group": "Libraries",
     "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
-  },
-  {
-    "name": "Rain Disabler",
-    "author": "buzzbb",
-    "version": "1.0.0",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "BzzzThe18th/Rain-Disabler-PC",
-    "group": "Cosmetic",
-    "download_url": "https://github.com/BzzzThe18th/Rain-Disabler-PC/releases/download/1.0.0/RainToggle-v1.0.0.zip"
   },
   {
     "name": "TMPLoader",
