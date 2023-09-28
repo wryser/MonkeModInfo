@@ -31,6 +31,14 @@
     "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.6.1/ComputerInterface.zip"
   },
   {
+    "name": "Custom Tag Sounds",
+    "author": "buzzbb",
+    "version": "1.0.0",
+    "git_path": "BzzzThe18th/CustomTagSounds",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/BzzzThe18th/CustomTagSounds/releases/download/1.0.0/CustomTagSounds-v1.0.0.zip"
+  },
+  {
     "name": "Extenject",
     "author": "svermeulen",
     "version": "1.0.1",
@@ -40,9 +48,17 @@
     "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
   },
   {
+    "name": "GOOMPS",
+    "author": "buzzbb",
+    "version": "1.0.1",
+    "git_path": "BzzzThe18th/GOOMPS",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/BzzzThe18th/GOOMPS/releases/download/1.0.1/GOOMPS.dll"
+  },
+  {
     "name": "Gorilla Shotgun",
     "author": "buzzbb",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "dependencies": [
       "Utilla",
       "HoneyLib",
@@ -50,7 +66,7 @@
     ],
     "git_path": "BzzzThe18th/GorillaShotgun",
     "group": "Gameplay",
-    "download_url": "https://github.com/BzzzThe18th/GorillaShotgun/releases/download/1.0.0/GorillaShotgun-v1.0.0.zip"
+    "download_url": "https://github.com/BzzzThe18th/GorillaShotgun/releases/download/1.0.1/GorillaShotgun-v1.0.1.zip"
   },
   {
     "name": "HoneyLib",
