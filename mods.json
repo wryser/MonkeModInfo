@@ -39,7 +39,8 @@
 			"group": "Gameplay",
 			"dependencies": [
 				"Utilla",
-				"HoneyLib"
+				"HoneyLib",
+              	"ComputerInterface"
 			]
 		},
 		{
