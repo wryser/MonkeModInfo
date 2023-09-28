@@ -8,9 +8,9 @@
 			"group": "Core"
 		},
 		{
-			"name": "Rain Disabler",
+			"name": "Rain Toggle",
 			"tag": "",
-			"gitPath": "BzzzThe18th/Rain-Disabler-PC",
+			"gitPath": "BzzzThe18th/RainToggle",
 			"releaseId": 0,
 			"author": "buzzbb",
 			"group": "Cosmetic",
@@ -113,7 +113,10 @@
 			"gitPath": "BzzzThe18th/GOOMPS",
 			"releaseId": 0,
 			"author": "buzzbb",
-			"group": "Cosmetic"
+			"group": "Cosmetic",
+			"dependencies": [
+				"Utilla"
+			]
 		},
 		{
 			"name": "Custom Tag Sounds",
@@ -121,7 +124,11 @@
 			"gitPath": "BzzzThe18th/CustomTagSounds",
 			"releaseId": 0,
 			"author": "buzzbb",
-			"group": "Cosmetic"
+			"group": "Cosmetic",
+			"dependencies": [
+				"HoneyLib",
+				"Utilla"
+			]
 		}
 	],
 	"groups": [{
