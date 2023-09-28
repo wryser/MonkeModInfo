@@ -14,7 +14,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
       with:
-        token: ${{ secrets.REPO_SCOPED_TOKEN }}
+        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Setup Node.js
       uses: actions/setup-node@v2
@@ -24,7 +24,7 @@ jobs:
     - name: Check for Updates
       run: node app.js
       env:
-        SECRET: ${{ secrets.REPO_SCOPED_TOKEN }}
+        SECRET: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Check for Modified Files
       id: git-check
