@@ -76,14 +76,6 @@
     "download_url": "https://github.com/BzzzThe18th/GorillaShotgun/releases/download/1.0.1/GorillaShotgun-v1.0.1.zip"
   },
   {
-    "name": "HoneyLib",
-    "author": "buzzbb",
-    "version": "1.0.9",
-    "git_path": "BzzzThe18th/HoneyLib",
-    "group": "Libraries",
-    "download_url": "https://github.com/BzzzThe18th/HoneyLib/releases/download/1.0.9/HoneyLib-v1.0.9.zip"
-  },
-  {
     "name": "Iron Monke",
     "author": "buzzbb",
     "version": "1.0.3",
