@@ -19,41 +19,6 @@
 			]
 		},
 		{
-			"name": "AirJump",
-			"tag": "",
-			"gitPath": "fchb1239/AirJump",
-			"releaseId": 0,
-			"author": "fchb1239",
-			"group": "Gameplay",
-			"dependencies": [
-				"Utilla",
-				"Computer Interface"
-			]
-		},
-		{
-			"name": "Dash Monke",
-			"tag": "",
-			"gitPath": "Frogrilla/DashMonke",
-			"releaseId": 0,
-			"author": "Frogrilla",
-			"group": "Gameplay",
-			"dependencies": [
-				"Utilla"
-			]
-		},
-		{
-			"name": "Rising Lava",
-			"tag": "",
-			"gitPath": "ChillGunner/RisingLava",
-			"releaseId": 0,
-			"author": "BoopetyDoopety",
-			"group": "Gameplay",
-			"dependencies": [
-				"Utilla",
-				"Computer Interface"
-			]
-		},
-		{
 			"name": "Iron Monke",
 			"tag": "",
 			"gitPath": "BzzzThe18th/IronMonkePC",
@@ -75,18 +40,6 @@
 			"dependencies": [
 				"Utilla",
 				"HoneyLib"
-			]
-		},
-		{
-			"name": "Monke Bazooka",
-			"tag": "",
-			"gitPath": "Waulta/MonkeBazooka",
-			"releaseId": 0,
-			"author": "Waulta",
-			"group": "Gameplay",
-			"dependencies": [
-				"Utilla",
-				"Computer Interface"
 			]
 		},
 		{
