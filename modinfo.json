@@ -40,14 +40,6 @@
     "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Bepinject-Auros.zip"
   },
   {
-    "name": "BrokenController",
-    "author": "A Haunted Army",
-    "version": "1.1.0",
-    "git_path": "AHauntedArmy/BrokenController",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/AHauntedArmy/BrokenController/releases/download/1.1.0/BrokenController-v1.1.0.zip"
-  },
-  {
     "name": "Computer Interface",
     "author": "Toni Macaroni",
     "version": "1.6.1",
@@ -91,8 +83,20 @@
     "download_url": "https://github.com/legoandmars/GorillaCosmetics/releases/download/3.0.2/GorillaCosmetics-3.0.2.zip"
   },
   {
+    "name": "Gorilla Shotgun",
+    "author": "buzzbb",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla",
+      "HoneyLib"
+    ],
+    "git_path": "BzzzThe18th/GorillaShotgun",
+    "group": "",
+    "download_url": "https://github.com/BzzzThe18th/GorillaShotgun/releases/download/1.0.0/GorillaShotgun-v1.0.0.zip"
+  },
+  {
     "name": "Grav Monke",
-    "author": "Buzz Bzzz bzz BZZZ The 18th",
+    "author": "buzzbb",
     "version": "1.0.0",
     "dependencies": [
       "Utilla"
@@ -100,6 +104,18 @@
     "git_path": "BzzzThe18th/Grav-Monke-PC",
     "group": "Gameplay",
     "download_url": "https://github.com/BzzzThe18th/Grav-Monke-PC/releases/download/1.0.0/GravMonke-v1.0.0.zip"
+  },
+  {
+    "name": "GripMonke",
+    "author": "lunakittyyy",
+    "version": "2.1.1",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "lunakittyyy/GripMonke",
+    "group": "Gameplay",
+    "download_url": "https://github.com/lunakittyyy/GripMonke/releases/download/2.1.1/GripMonke-v2.1.1.zip"
   },
   {
     "name": "Haunted Mod Menu",
@@ -113,15 +129,24 @@
     "download_url": "https://github.com/AHauntedArmy/HauntedModMenu/releases/download/1.0.1/HauntedModMenu-v1.0.1.zip"
   },
   {
+    "name": "HoneyLib",
+    "author": "buzzbb",
+    "version": "1.0.9",
+    "git_path": "BzzzThe18th/HoneyLib",
+    "group": "Libraries",
+    "download_url": "https://github.com/BzzzThe18th/HoneyLib/releases/download/1.0.9/HoneyLib-v1.0.9.zip"
+  },
+  {
     "name": "Iron Monke",
-    "author": "Buzz Bzzz bzz BZZZ The 18th",
-    "version": "1.0.2",
+    "author": "buzzbb",
+    "version": "1.0.3",
     "dependencies": [
-      "Utilla"
+      "Utilla",
+      "HoneyLib"
     ],
     "git_path": "BzzzThe18th/IronMonkePC",
     "group": "Gameplay",
-    "download_url": "https://github.com/BzzzThe18th/IronMonkePC/releases/download/1.0.2/IronMonke-v1.0.2.zip"
+    "download_url": "https://github.com/BzzzThe18th/IronMonkePC/releases/download/1.0.3/IronMonke-v1.0.3.zip"
   },
   {
     "name": "LIV",
@@ -137,7 +162,7 @@
   },
   {
     "name": "Marry Poppins",
-    "author": "Buzz Bzzz bzz BZZZ The 18th",
+    "author": "buzzbb",
     "version": "1.0.1",
     "dependencies": [
       "Utilla"
@@ -191,14 +216,6 @@
     "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
   },
   {
-    "name": "NoAmbient",
-    "author": "[-=KILL MAN=-] aka RusJJ",
-    "version": "1.1.0",
-    "git_path": "RusJJ/NoAmbient",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/RusJJ/NoAmbient/releases/download/1.1.0/NoAmbient.zip"
-  },
-  {
     "name": "PowerArms",
     "author": "A Haunted Army",
     "version": "1.0.3",
@@ -210,20 +227,8 @@
     "download_url": "https://github.com/AHauntedArmy/PowerArms/releases/download/1.0.3/PowerArms-v1.0.3.zip"
   },
   {
-    "name": "Practice Mod",
-    "author": "Graic",
-    "version": "1.1.2",
-    "dependencies": [
-      "Utilla",
-      "Computer Interface"
-    ],
-    "git_path": "Graicc/PracticeMod",
-    "group": "Gameplay",
-    "download_url": "https://github.com/Graicc/PracticeMod/releases/download/v1.1.2/PracticeMod-v1.1.2.zip"
-  },
-  {
     "name": "Rain Disabler",
-    "author": "Buzz Bzzz bzz BZZZ The 18th",
+    "author": "buzzbb",
     "version": "1.0.0",
     "dependencies": [
       "Utilla"
@@ -299,7 +304,7 @@
   },
   {
     "name": "Utilla",
-    "author": "Bobbie & Graic",
+    "author": "Bobbie",
     "version": "1.6.10",
     "git_path": "legoandmars/Utilla",
     "group": "Core",
