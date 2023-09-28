@@ -1,17 +1,5 @@
 [
   {
-    "name": "AirJump",
-    "author": "fchb1239",
-    "version": "1.0.3",
-    "dependencies": [
-      "Utilla",
-      "Computer Interface"
-    ],
-    "git_path": "fchb1239/AirJump",
-    "group": "Gameplay",
-    "download_url": "https://github.com/fchb1239/AirJump/releases/download/1.0.3/AirJump.zip"
-  },
-  {
     "name": "BepInEx",
     "author": "BepInEx Team",
     "version": "5.4.22",
@@ -41,17 +29,6 @@
     "git_path": "ToniMacaroni/ComputerInterface",
     "group": "Libraries",
     "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.6.1/ComputerInterface.zip"
-  },
-  {
-    "name": "Dash Monke",
-    "author": "Frogrilla",
-    "version": "1.0.2",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "Frogrilla/DashMonke",
-    "group": "Gameplay",
-    "download_url": "https://github.com/Frogrilla/DashMonke/releases/download/1.0.2/DashMonke-v1.0.2.zip"
   },
   {
     "name": "Extenject",
@@ -95,18 +72,6 @@
     "download_url": "https://github.com/BzzzThe18th/IronMonkePC/releases/download/1.0.3/IronMonke-v1.0.3.zip"
   },
   {
-    "name": "Monke Bazooka",
-    "author": "Waulta",
-    "version": "1.0.2",
-    "dependencies": [
-      "Utilla",
-      "Computer Interface"
-    ],
-    "git_path": "Waulta/MonkeBazooka",
-    "group": "Gameplay",
-    "download_url": "https://github.com/Waulta/MonkeBazooka/releases/download/1.0.2/MonkeBazooka.zip"
-  },
-  {
     "name": "Newtonsoft.JSON",
     "author": "James Newton-King",
     "version": "12.0.3",
@@ -124,18 +89,6 @@
     "git_path": "BzzzThe18th/Rain-Disabler-PC",
     "group": "Cosmetic",
     "download_url": "https://github.com/BzzzThe18th/Rain-Disabler-PC/releases/download/1.0.0/RainToggle-v1.0.0.zip"
-  },
-  {
-    "name": "Rising Lava",
-    "author": "BoopetyDoopety",
-    "version": "1.0.2",
-    "dependencies": [
-      "Utilla",
-      "Computer Interface"
-    ],
-    "git_path": "ChillGunner/RisingLava",
-    "group": "Gameplay",
-    "download_url": "https://github.com/ChillGunner/RisingLava/releases/download/1.0.2/RisingLava.zip"
   },
   {
     "name": "TMPLoader",
