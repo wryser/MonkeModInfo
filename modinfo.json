@@ -33,10 +33,14 @@
   {
     "name": "Custom Tag Sounds",
     "author": "buzzbb",
-    "version": "1.0.0",
+    "version": "1.0.1",
+    "dependencies": [
+      "HoneyLib",
+      "Utilla"
+    ],
     "git_path": "BzzzThe18th/CustomTagSounds",
     "group": "Cosmetic",
-    "download_url": "https://github.com/BzzzThe18th/CustomTagSounds/releases/download/1.0.0/CustomTagSounds-v1.0.0.zip"
+    "download_url": "https://github.com/BzzzThe18th/CustomTagSounds/releases/download/1.0.1/CustomTagSounds-v1.0.1.zip"
   },
   {
     "name": "Extenject",
@@ -51,6 +55,9 @@
     "name": "GOOMPS",
     "author": "buzzbb",
     "version": "1.0.1",
+    "dependencies": [
+      "Utilla"
+    ],
     "git_path": "BzzzThe18th/GOOMPS",
     "group": "Cosmetic",
     "download_url": "https://github.com/BzzzThe18th/GOOMPS/releases/download/1.0.1/GOOMPS.dll"
@@ -95,6 +102,17 @@
     "git_path": "legoandmars/Newtonsoft.Json",
     "group": "Libraries",
     "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
+  },
+  {
+    "name": "Rain Toggle",
+    "author": "buzzbb",
+    "version": "1.0.1",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "BzzzThe18th/RainToggle",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/BzzzThe18th/RainToggle/releases/download/1.0.1/RainToggle-v1.0.1.zip"
   },
   {
     "name": "TMPLoader",
