@@ -106,6 +106,22 @@
 			"releaseId": 0,
 			"author": "A Haunted Army",
 			"group": "Libraries"
+		},
+		{
+			"name": "GOOMPS",
+			"tag": "",
+			"gitPath": "BzzzThe18th/GOOMPS",
+			"releaseId": 0,
+			"author": "buzzbb",
+			"group": "Cosmetic"
+		},
+		{
+			"name": "Custom Tag Sounds",
+			"tag": "",
+			"gitPath": "BzzzThe18th/CustomTagSounds",
+			"releaseId": 0,
+			"author": "buzzbb",
+			"group": "Cosmetic"
 		}
 	],
 	"groups": [{
