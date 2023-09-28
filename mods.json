@@ -48,7 +48,7 @@
 			"tag": "",
 			"gitPath": "legoandmars/Utilla",
 			"releaseId": 0,
-			"author": "Bobbie",
+			"author": "bobbievr",
 			"group": "Core"
 		},
 		{
@@ -56,7 +56,7 @@
 			"tag": "",
 			"gitPath": "ToniMacaroni/ComputerInterface",
 			"releaseId": 0,
-			"author": "Toni Macaroni",
+			"author": "tonimacaroni",
 			"group": "Libraries",
 			"dependencies": [
 				"Bepinject"
@@ -104,7 +104,7 @@
 			"tag": "",
 			"gitPath": "AHauntedArmy/TMPLoader",
 			"releaseId": 0,
-			"author": "A Haunted Army",
+			"author": "ahauntedarmy",
 			"group": "Libraries"
 		},
 		{
@@ -128,6 +128,17 @@
 			"dependencies": [
 				"HoneyLib",
 				"Utilla"
+			]
+		},
+		{
+			"name": "Gorilla Roulette",
+			"tag": "",
+			"gitPath": "BrokenSt0ne/GorillaRoulette",
+			"releaseId": 0,
+			"author": "awesome_phoenix",
+			"group": "Gameplay",
+			"dependencies": [
+				"HoneyLib"
 			]
 		}
 	],
