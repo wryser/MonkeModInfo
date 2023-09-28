@@ -1,348 +1,346 @@
 {
-  "mods" : [
-     {
-        "name" : "BepInEx",
-        "tag" : "",
-        "gitPath" : "BepInEx/BepInEx",
-        "releaseId" : 1,
-        "author" : "BepInEx Team",
-        "group" : "Core"
-     },
-     {
-        "name" : "Gorilla Cosmetics",
-        "tag" : "",
-        "gitPath" : "legoandmars/GorillaCosmetics",
-        "releaseId" : 0,
-        "author" : "Bobbie & Graic",
-        "group" : "Cosmetic",
-        "dependencies" : [
-         "Utilla",
-         "Newtonsoft.JSON"
-        ]
-     },
-     {
-      "name" : "Rain Disabler",
-      "tag" : "",
-      "gitPath" : "BzzzThe18th/Rain-Disabler-PC",
-      "releaseId" : 0,
-      "author" : "buzzbb",
-      "group" : "Cosmetic",
-      "dependencies" : [
-       "Utilla"
-      ]
-     },
-     {
-        "name" : "AirJump",
-        "tag" : "",
-        "gitPath" : "fchb1239/AirJump",
-        "releaseId" : 0,
-        "author" : "fchb1239",
-        "group" : "Gameplay",
-        "dependencies" : [
-         "Utilla",
-         "Computer Interface"
-        ]
-     },
-     {
-      "name" : "Dash Monke",
-      "tag" : "",
-      "gitPath" : "Frogrilla/DashMonke",
-      "releaseId" : 0,
-      "author" : "Frogrilla",
-      "group" : "Gameplay",
-      "dependencies" : [
-       "Utilla"
-      ]
-     },
-     {
-      "name" : "GripMonke",
-      "tag" : "",
-      "gitPath" : "lunakittyyy/GripMonke",
-      "releaseId" : 0,
-      "author" : "lunakittyyy",
-      "group" : "Gameplay",
-      "dependencies" : [
-       "Utilla",
-       "Computer Interface"
-      ]
-     },
-     {
-      "name" : "Rising Lava",
-      "tag" : "",
-      "gitPath" : "ChillGunner/RisingLava",
-      "releaseId" : 0,
-      "author" : "BoopetyDoopety",
-      "group" : "Gameplay",
-      "dependencies" : [
-       "Utilla",
-       "Computer Interface"
-      ]
-     },
-     {
-      "name" : "Iron Monke",
-      "tag" : "",
-      "gitPath" : "BzzzThe18th/IronMonkePC",
-      "releaseId" : 0,
-      "author" : "buzzbb",
-      "group" : "Gameplay",
-      "dependencies" : [
-       "Utilla",
-       "HoneyLib"
-      ]
-     },
-     {
-       "name" : "Gorilla Shotgun",
-       "tag" : "",
-       "gitPath" : "BzzzThe18th/GorillaShotgun",
-       "releaseId" : 0,
-       "author" : "buzzbb",
-       "group" : "",
-       "dependencies" : [
-         "Utilla",
-         "HoneyLib"
-       ]
-     }
-     {
-        "name" : "Monke Bazooka",
-        "tag" : "",
-        "gitPath" : "Waulta/MonkeBazooka",
-        "releaseId" : 0,
-        "author" : "Waulta",
-        "group" : "Gameplay",
-        "dependencies" : [
-         "Utilla",
-         "Computer Interface"
-        ]
-     },
-     {
-      "name" : "Marry Poppins",
-      "tag" : "",
-      "gitPath" : "BzzzThe18th/Marry-Poppins-PC",
-      "releaseId" : 0,
-      "author" : "buzzbb",
-      "group" : "Gameplay",
-      "dependencies" : [
-       "Utilla"
-      ]
-     },
-     {
-      "name" : "Grav Monke",
-      "tag" : "",
-      "gitPath" : "BzzzThe18th/Grav-Monke-PC",
-      "releaseId" : 0,
-      "author" : "buzzbb",
-      "group" : "Gameplay",
-      "dependencies" : [
-       "Utilla"
-      ]
-     },
-     {
-        "name" : "Monke Map Loader",
-        "tag" : "",
-        "gitPath" : "Vadix88/MonkeMapLoader",
-        "releaseId" : 0,
-        "author" : "Vadix",
-        "group" : "Gameplay",
-        "dependencies" : [
-         "Newtonsoft.JSON",
-         "Utilla",
-         "Computer Interface"
-        ]
-     },
-     {
-      "name" : "PowerArms",
-      "tag" : "",
-      "gitPath" : "AHauntedArmy/PowerArms",
-      "releaseId" : 0,
-      "author" : "A Haunted Army",
-      "group" : "Gameplay",
-      "dependencies" : [
-        "Utilla"
-       ]
-     },
-     {
-      "name" : "Slippery Ice",
-      "tag" : "",
-      "gitPath" : "fchb1239/SlipperyIce",
-      "releaseId" : 0,
-      "author" : "fchb1239",
-      "group" : "Gameplay",
-      "dependencies" : [
-       "Utilla",
-       "Computer Interface"
-      ]
-     },
-     {
-      "name" : "Super Monke",
-      "tag" : "",
-      "gitPath" : "fchb1239/SuperMonke",
-      "releaseId" : 0,
-      "author" : "fchb1239",
-      "group" : "Gameplay",
-      "dependencies" : [
-       "Utilla"
-      ]
-     },
-     {
-      "name" : "Solid Monkeys",
-      "tag" : "",
-      "gitPath" : "AHauntedArmy/SolidMonkeys",
-      "releaseId" : 0,
-      "author" : "A Haunted Army",
-      "group" : "Gameplay",
-      "dependencies" : [
-       "Utilla"
-      ]
-     },
-     {
-        "name" : "Space Monke",
-        "tag" : "",
-        "gitPath" : "legoandmars/SpaceMonke",
-        "releaseId" : 0,
-        "author" : "Bobbie",
-        "group" : "Gameplay",
-        "dependencies" : [
-          "Utilla"
-         ]
-     },
-     {
-      "name" : "Haunted Mod Menu",
-      "tag" : "",
-      "gitPath" : "AHauntedArmy/HauntedModMenu",
-      "releaseId" : 0,
-      "author" : "A Haunted Army",
-      "group" : "Tweaks / Tools",
-      "dependencies" : [
-        "Utilla"
-      ]
-     },
-     {
-      "name" : "LIV",
-      "tag" : "",
-      "gitPath" : "LIV/GorillaTagLIV",
-      "releaseId" : 0,
-      "author" : "Raicuparta",
-      "group" : "Tweaks / Tools",
-      "dependencies" : [
-        "Utilla",
-        "Computer Interface"
-      ]
-     },
-     {
-      "name" : "MonkeSwim",
-      "tag" : "",
-      "gitPath" : "AHauntedArmy/MonkeSwim",
-      "releaseId" : 0,
-      "author" : "A Haunted Army",
-      "group" : "Tweaks / Tools",
-      "dependencies" : [
-        "Monke Map Loader"
-       ]
-     },
-     {
-      "name" : "YURFitGorillaTag",
-      "tag" : "",
-      "gitPath" : "AHauntedArmy/YURFitGorillaTag",
-      "releaseId" : 0,
-      "author" : "A Haunted Army & fchb1239",
-      "group" : "Tweaks / Tools",
-      "dependencies" : [
-        "TMPLoader"
-       ]
-     },
-     {
-        "name" : "Utilla",
-        "tag" : "",
-        "gitPath" : "legoandmars/Utilla",
-        "releaseId" : 0,
-        "author" : "Bobbie",
-        "group" : "Core"
-     },
-     {
-       "name" : "Computer Interface",
-       "tag" : "",
-       "gitPath" : "ToniMacaroni/ComputerInterface",
-       "releaseId": 0,
-       "author" : "Toni Macaroni",
-       "group" : "Libraries",
-       "dependencies" : [
-         "Bepinject"
-       ]
-     },
-     {
-       "name" : "HoneyLib",
-       "tag" : "",
-       "gitPath" : "BzzzThe18th/HoneyLib"
-       "releaseId" : 0,
-       "author" : "buzzbb",
-       "group" : "Libraries",
-     }
-     {
-       "name" : "Bepinject",
-       "tag" : "",
-       "gitPath" : "Auros/Bepinject",
-       "releaseId": 0,
-       "author" : "Auros",
-       "group" : "Libraries",
-       "installPath" : "BepInEx/plugins",
-       "dependencies" : [
-         "Extenject"
-       ]
-     },
-     {
-       "name" : "Extenject",
-       "tag" : "",
-       "gitPath" : "Auros/Bepinject",
-       "releaseId": 1,
-       "author" : "svermeulen",
-       "group" : "Libraries",
-       "installPath" : "BepInEx/plugins"
-     },
-     {
-        "name" : "Newtonsoft.JSON",
-        "tag" : "",
-        "gitPath" : "legoandmars/Newtonsoft.Json",
-        "releaseId" : 0,
-        "author" : "James Newton-King",
-        "group" : "Libraries"
-     },
-     {
-      "name" : "BananaHook",
-      "tag" : "",
-      "gitPath" : "Graicc/BananaHook",
-      "releaseId" : 0,
-      "author" : "[-=KILL MAN=-] aka RusJJ",
-      "group" : "Libraries"
-     },
-     {
-      "name" : "TMPLoader",
-      "tag" : "",
-      "gitPath" : "AHauntedArmy/TMPLoader",
-      "releaseId" : 0,
-      "author" : "A Haunted Army",
-      "group" : "Libraries"
-     }
-  ],
-  "groups" : [
-    {
-      "name" : "Core",
-      "rank" : 0
-    },
-    {
-      "name" : "Cosmetic",
-      "rank" : 1
-    },
-    {
-      "name" : "Gameplay",
-      "rank" : 2
-    },
-    {
-      "name" : "Tweaks / Tools",
-      "rank" : 3
-    },
-    {
-      "name" : "Libraries",
-      "rank" : 4
-    }
-  ]
+	"mods": [{
+			"name": "BepInEx",
+			"tag": "",
+			"gitPath": "BepInEx/BepInEx",
+			"releaseId": 1,
+			"author": "BepInEx Team",
+			"group": "Core"
+		},
+		{
+			"name": "Gorilla Cosmetics",
+			"tag": "",
+			"gitPath": "legoandmars/GorillaCosmetics",
+			"releaseId": 0,
+			"author": "Bobbie & Graic",
+			"group": "Cosmetic",
+			"dependencies": [
+				"Utilla",
+				"Newtonsoft.JSON"
+			]
+		},
+		{
+			"name": "Rain Disabler",
+			"tag": "",
+			"gitPath": "BzzzThe18th/Rain-Disabler-PC",
+			"releaseId": 0,
+			"author": "buzzbb",
+			"group": "Cosmetic",
+			"dependencies": [
+				"Utilla"
+			]
+		},
+		{
+			"name": "AirJump",
+			"tag": "",
+			"gitPath": "fchb1239/AirJump",
+			"releaseId": 0,
+			"author": "fchb1239",
+			"group": "Gameplay",
+			"dependencies": [
+				"Utilla",
+				"Computer Interface"
+			]
+		},
+		{
+			"name": "Dash Monke",
+			"tag": "",
+			"gitPath": "Frogrilla/DashMonke",
+			"releaseId": 0,
+			"author": "Frogrilla",
+			"group": "Gameplay",
+			"dependencies": [
+				"Utilla"
+			]
+		},
+		{
+			"name": "GripMonke",
+			"tag": "",
+			"gitPath": "lunakittyyy/GripMonke",
+			"releaseId": 0,
+			"author": "lunakittyyy",
+			"group": "Gameplay",
+			"dependencies": [
+				"Utilla",
+				"Computer Interface"
+			]
+		},
+		{
+			"name": "Rising Lava",
+			"tag": "",
+			"gitPath": "ChillGunner/RisingLava",
+			"releaseId": 0,
+			"author": "BoopetyDoopety",
+			"group": "Gameplay",
+			"dependencies": [
+				"Utilla",
+				"Computer Interface"
+			]
+		},
+		{
+			"name": "Iron Monke",
+			"tag": "",
+			"gitPath": "BzzzThe18th/IronMonkePC",
+			"releaseId": 0,
+			"author": "buzzbb",
+			"group": "Gameplay",
+			"dependencies": [
+				"Utilla",
+				"HoneyLib"
+			]
+		},
+		{
+			"name": "Gorilla Shotgun",
+			"tag": "",
+			"gitPath": "BzzzThe18th/GorillaShotgun",
+			"releaseId": 0,
+			"author": "buzzbb",
+			"group": "",
+			"dependencies": [
+				"Utilla",
+				"HoneyLib"
+			]
+        },
+        {
+			"name": "Monke Bazooka",
+			"tag": "",
+			"gitPath": "Waulta/MonkeBazooka",
+			"releaseId": 0,
+			"author": "Waulta",
+			"group": "Gameplay",
+			"dependencies": [
+				"Utilla",
+				"Computer Interface"
+			]
+		},
+		{
+			"name": "Marry Poppins",
+			"tag": "",
+			"gitPath": "BzzzThe18th/Marry-Poppins-PC",
+			"releaseId": 0,
+			"author": "buzzbb",
+			"group": "Gameplay",
+			"dependencies": [
+				"Utilla"
+			]
+		},
+		{
+			"name": "Grav Monke",
+			"tag": "",
+			"gitPath": "BzzzThe18th/Grav-Monke-PC",
+			"releaseId": 0,
+			"author": "buzzbb",
+			"group": "Gameplay",
+			"dependencies": [
+				"Utilla"
+			]
+		},
+		{
+			"name": "Monke Map Loader",
+			"tag": "",
+			"gitPath": "Vadix88/MonkeMapLoader",
+			"releaseId": 0,
+			"author": "Vadix",
+			"group": "Gameplay",
+			"dependencies": [
+				"Newtonsoft.JSON",
+				"Utilla",
+				"Computer Interface"
+			]
+		},
+		{
+			"name": "PowerArms",
+			"tag": "",
+			"gitPath": "AHauntedArmy/PowerArms",
+			"releaseId": 0,
+			"author": "A Haunted Army",
+			"group": "Gameplay",
+			"dependencies": [
+				"Utilla"
+			]
+		},
+		{
+			"name": "Slippery Ice",
+			"tag": "",
+			"gitPath": "fchb1239/SlipperyIce",
+			"releaseId": 0,
+			"author": "fchb1239",
+			"group": "Gameplay",
+			"dependencies": [
+				"Utilla",
+				"Computer Interface"
+			]
+		},
+		{
+			"name": "Super Monke",
+			"tag": "",
+			"gitPath": "fchb1239/SuperMonke",
+			"releaseId": 0,
+			"author": "fchb1239",
+			"group": "Gameplay",
+			"dependencies": [
+				"Utilla"
+			]
+		},
+		{
+			"name": "Solid Monkeys",
+			"tag": "",
+			"gitPath": "AHauntedArmy/SolidMonkeys",
+			"releaseId": 0,
+			"author": "A Haunted Army",
+			"group": "Gameplay",
+			"dependencies": [
+				"Utilla"
+			]
+		},
+		{
+			"name": "Space Monke",
+			"tag": "",
+			"gitPath": "legoandmars/SpaceMonke",
+			"releaseId": 0,
+			"author": "Bobbie",
+			"group": "Gameplay",
+			"dependencies": [
+				"Utilla"
+			]
+		},
+		{
+			"name": "Haunted Mod Menu",
+			"tag": "",
+			"gitPath": "AHauntedArmy/HauntedModMenu",
+			"releaseId": 0,
+			"author": "A Haunted Army",
+			"group": "Tweaks / Tools",
+			"dependencies": [
+				"Utilla"
+			]
+		},
+		{
+			"name": "LIV",
+			"tag": "",
+			"gitPath": "LIV/GorillaTagLIV",
+			"releaseId": 0,
+			"author": "Raicuparta",
+			"group": "Tweaks / Tools",
+			"dependencies": [
+				"Utilla",
+				"Computer Interface"
+			]
+		},
+		{
+			"name": "MonkeSwim",
+			"tag": "",
+			"gitPath": "AHauntedArmy/MonkeSwim",
+			"releaseId": 0,
+			"author": "A Haunted Army",
+			"group": "Tweaks / Tools",
+			"dependencies": [
+				"Monke Map Loader"
+			]
+		},
+		{
+			"name": "YURFitGorillaTag",
+			"tag": "",
+			"gitPath": "AHauntedArmy/YURFitGorillaTag",
+			"releaseId": 0,
+			"author": "A Haunted Army & fchb1239",
+			"group": "Tweaks / Tools",
+			"dependencies": [
+				"TMPLoader"
+			]
+		},
+		{
+			"name": "Utilla",
+			"tag": "",
+			"gitPath": "legoandmars/Utilla",
+			"releaseId": 0,
+			"author": "Bobbie",
+			"group": "Core"
+		},
+		{
+			"name": "Computer Interface",
+			"tag": "",
+			"gitPath": "ToniMacaroni/ComputerInterface",
+			"releaseId": 0,
+			"author": "Toni Macaroni",
+			"group": "Libraries",
+			"dependencies": [
+				"Bepinject"
+			]
+		},
+		{
+			"name": "HoneyLib",
+			"tag": "",
+			"gitPath" : "BzzzThe18th/HoneyLib",
+			"releaseId": 0,
+			"author": "buzzbb",
+			"group" : "Libraries"
+		},
+		{
+			"name": "Bepinject",
+			"tag": "",
+			"gitPath": "Auros/Bepinject",
+			"releaseId": 0,
+			"author": "Auros",
+			"group": "Libraries",
+			"installPath": "BepInEx/plugins",
+			"dependencies": [
+				"Extenject"
+			]
+		},
+		{
+			"name": "Extenject",
+			"tag": "",
+			"gitPath": "Auros/Bepinject",
+			"releaseId": 1,
+			"author": "svermeulen",
+			"group": "Libraries",
+			"installPath": "BepInEx/plugins"
+		},
+		{
+			"name": "Newtonsoft.JSON",
+			"tag": "",
+			"gitPath": "legoandmars/Newtonsoft.Json",
+			"releaseId": 0,
+			"author": "James Newton-King",
+			"group": "Libraries"
+		},
+		{
+			"name": "BananaHook",
+			"tag": "",
+			"gitPath": "Graicc/BananaHook",
+			"releaseId": 0,
+			"author": "[-=KILL MAN=-] aka RusJJ",
+			"group": "Libraries"
+		},
+		{
+			"name": "TMPLoader",
+			"tag": "",
+			"gitPath": "AHauntedArmy/TMPLoader",
+			"releaseId": 0,
+			"author": "A Haunted Army",
+			"group": "Libraries"
+		}
+	],
+	"groups": [{
+			"name": "Core",
+			"rank": 0
+		},
+		{
+			"name": "Cosmetic",
+			"rank": 1
+		},
+		{
+			"name": "Gameplay",
+			"rank": 2
+		},
+		{
+			"name": "Tweaks / Tools",
+			"rank": 3
+		},
+		{
+			"name": "Libraries",
+			"rank": 4
+		}
+	]
 }
