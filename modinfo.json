@@ -87,14 +87,6 @@
     "download_url": "https://github.com/BzzzThe18th/GorillaShotgun/releases/download/1.0.1/GorillaShotgun-v1.0.1.zip"
   },
   {
-    "name": "Gorilla Tier List",
-    "author": "dev9998",
-    "version": "1.1.0",
-    "git_path": "developer9998/GorillaTierList",
-    "group": "Cosmetic",
-    "download_url": "https://github.com/developer9998/GorillaTierList/releases/download/1.1.0/GorillaTierList.zip"
-  },
-  {
     "name": "HoneyLib",
     "author": "buzzbb",
     "version": "1.0.9",
@@ -121,25 +113,6 @@
     "git_path": "legoandmars/Newtonsoft.Json",
     "group": "Libraries",
     "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
-  },
-  {
-    "name": "Rain Toggle",
-    "author": "buzzbb",
-    "version": "1.0.1",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "BzzzThe18th/RainToggle",
-    "group": "Cosmetic",
-    "download_url": "https://github.com/BzzzThe18th/RainToggle/releases/download/1.0.1/RainToggle-v1.0.1.zip"
-  },
-  {
-    "name": "TMPLoader",
-    "author": "ahauntedarmy",
-    "version": "1.0.2",
-    "git_path": "AHauntedArmy/TMPLoader",
-    "group": "Libraries",
-    "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/1.0.2/TMPLoader-v1.0.2.zip"
   },
   {
     "name": "Utilla",
