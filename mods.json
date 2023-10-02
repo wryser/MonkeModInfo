@@ -140,6 +140,14 @@
 			"dependencies": [
 				"HoneyLib"
 			]
+		},
+		{
+			"name": "Gorilla Tier List",
+			"tag": "",
+			"gitPath": "developer9998/GorillaTierList",
+			"releaseId": 0,
+			"author": "dev9998",
+			"group": "Cosmetic"
 		}
 	],
 	"groups": [{
