@@ -155,7 +155,7 @@
 			"gitPath": "developer9998/EnthusiastHeadphones",
 			"releaseId": 0,
 			"author": "dev9998",
-			"group": "Cosmetics",
+			"group": "Cosmetic",
 			"dependencies": [
 				"Bepinject",
 				"Extenject"
