@@ -148,6 +148,18 @@
 			"releaseId": 0,
 			"author": "dev9998",
 			"group": "Cosmetic"
+		},
+		{
+			"name": "Enthusiast Headphones",
+			"tag": "",
+			"gitPath": "developer9998/EnthusiastHeadphones",
+			"releaseId": 0,
+			"author": "dev9998",
+			"group": "Cosmetics",
+			"dependencies": [
+				"Bepinject",
+				"Extenject"
+			]
 		}
 	],
 	"groups": [{
