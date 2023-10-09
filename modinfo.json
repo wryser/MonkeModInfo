@@ -43,6 +43,18 @@
     "download_url": "https://github.com/BzzzThe18th/CustomTagSounds/releases/download/1.0.1/CustomTagSounds-v1.0.1.zip"
   },
   {
+    "name": "Enthusiast Headphones",
+    "author": "dev9998",
+    "version": "1.0.0",
+    "dependencies": [
+      "Bepinject",
+      "Extenject"
+    ],
+    "git_path": "developer9998/EnthusiastHeadphones",
+    "group": "Cosmetics",
+    "download_url": "https://github.com/developer9998/EnthusiastHeadphones/releases/download/1.0.0/EnthusiastHeadphones.zip"
+  },
+  {
     "name": "Extenject",
     "author": "svermeulen",
     "version": "1.0.1",
