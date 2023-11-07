@@ -45,11 +45,11 @@
   {
     "name": "Extenject",
     "author": "svermeulen",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "install_location": "BepInEx/plugins",
     "git_path": "Auros/Bepinject",
     "group": "Libraries",
-    "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
+    "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.0/Extenject.zip"
   },
   {
     "name": "GOOMPS",
