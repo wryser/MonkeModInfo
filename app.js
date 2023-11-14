@@ -15,25 +15,6 @@ function isNumeric(value) {
 }
 
 modList.mods.forEach(mod => 
-  https.get(`${prefix}${!isNumeric(mod.gitPath) ? repos : repositories}${mod.gitPath}`, { headers: { 'User-Agent' : 'DeadlyKitten/MonkeModInfo' ,'Authorization': `Token ${process.env.SECRET}`}},(res) => {
-    let body = "";
-
-      res.on("data", (chunk) => {
-          body += chunk;
-      });
-
-      res.on("end", () => {
-          try {
-            let json = JSON.parse(body);
-            result.push({
-              'description': json["description"]
-            });
-          } catch (error) {
-              console.error(mod.gitPath);
-              console.error(error.message);
-          };
-      });
-  }),
   https.get(`${prefix}${!isNumeric(mod.gitPath) ? repos : repositories}${mod.gitPath}${postfix}`, { headers: { 'User-Agent' : 'DeadlyKitten/MonkeModInfo' ,'Authorization': `Token ${process.env.SECRET}`}},(res) => {
     let body = "";
       res.on("data", (chunk) => {
@@ -60,6 +41,27 @@ modList.mods.forEach(mod =>
           };
       });
   })  
+);
+modList.mods.forEach(mod =>
+  https.get(`${prefix}${!isNumeric(mod.gitPath) ? repos : repositories}${mod.gitPath}`, { headers: { 'User-Agent' : 'DeadlyKitten/MonkeModInfo' ,'Authorization': `Token ${process.env.SECRET}`}},(res) => {
+    let body = "";
+
+      res.on("data", (chunk) => {
+          body += chunk;
+      });
+
+      res.on("end", () => {
+          try {
+            let json = JSON.parse(body);
+            result.push({
+              'description': json["description"]
+            });
+          } catch (error) {
+              console.error(mod.gitPath);
+              console.error(error.message);
+          };
+      });
+  })
 );
 
 let attempts = 0;
