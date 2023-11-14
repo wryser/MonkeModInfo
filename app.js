@@ -14,11 +14,10 @@ function isNumeric(value) {
   return /^-?\d+$/.test(value);
 }
 
-
-
 modList.mods.forEach(mod => 
   https.get(`${prefix}${!isNumeric(mod.gitPath) ? repos : repositories}${mod.gitPath}${postfix}`, { headers: { 'User-Agent' : 'DeadlyKitten/MonkeModInfo' ,'Authorization': `Token ${process.env.SECRET}`}},(res) => {
     let body = "";
+
       res.on("data", (chunk) => {
           body += chunk;
       });
@@ -42,8 +41,7 @@ modList.mods.forEach(mod =>
               console.error(error.message);
           };
       });
-  })  
-);
+}));
 
 let attempts = 0;
 let timeout = 20;
