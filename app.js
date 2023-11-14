@@ -26,7 +26,7 @@ modList.mods.forEach(mod =>
           try {
             let json = JSON.parse(body);
             result.push({
-              'description': json["description"];
+              'description': json["description"]
             });
           } catch (error) {
               console.error(mod.gitPath);
