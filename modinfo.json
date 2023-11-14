@@ -1,13 +1,5 @@
 [
   {
-    "name": "BepInEx",
-    "author": "BepInEx Team",
-    "version": "5.4.22",
-    "git_path": "BepInEx/BepInEx",
-    "group": "Core",
-    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.22/BepInEx_x64_5.4.22.0.zip"
-  },
-  {
     "name": "Bepinject",
     "author": "Auros",
     "version": "1.0.1",
@@ -18,6 +10,72 @@
     "git_path": "Auros/Bepinject",
     "group": "Libraries",
     "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Bepinject-Auros.zip"
+  },
+  {
+    "name": "Newtonsoft.JSON",
+    "author": "James Newton-King",
+    "version": "12.0.3",
+    "git_path": "legoandmars/Newtonsoft.Json",
+    "group": "Libraries",
+    "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
+  },
+  {
+    "name": "TMPLoader",
+    "author": "ahauntedarmy",
+    "version": "1.0.2",
+    "git_path": "AHauntedArmy/TMPLoader",
+    "group": "Libraries",
+    "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/1.0.2/TMPLoader-v1.0.2.zip"
+  },
+  {
+    "description": "Monke now has 1/10 chance to die"
+  },
+  {
+    "description": "Dependency Injection support via Extenject into BepInEx patched mono Unity games. Officially supports Unity 2019.3.X"
+  },
+  {
+    "description": "Unity / XNA game patcher and plugin framework"
+  },
+  {
+    "description": null
+  },
+  {
+    "description": "Simple mod to showcase Honey Lib that allows any OGG file to be played when tagging someone"
+  },
+  {
+    "description": "Gorilla Tag VR PC Modding library to make modding easier."
+  },
+  {
+    "description": "Goomps remake from scratch, quick 30 minute mod."
+  },
+  {
+    "description": "Dependency Injection support via Extenject into BepInEx patched mono Unity games. Officially supports Unity 2019.3.X"
+  },
+  {
+    "description": "a utility mod to load textmeshpro in gorilla tag"
+  },
+  {
+    "description": "A Gorilla Tag library to interface with the gorilla computer"
+  },
+  {
+    "description": "funny iron monke flight"
+  },
+  {
+    "description": "Json.NET is a popular high-performance JSON framework for .NET"
+  },
+  {
+    "description": "Allows you to toggle rain through haunted mod menu or computer interface"
+  },
+  {
+    "description": "A PC library for Gorilla Tag that handles various room-related things (and more?)"
+  },
+  {
+    "name": "BepInEx",
+    "author": "BepInEx Team",
+    "version": "5.4.22",
+    "git_path": "BepInEx/BepInEx",
+    "group": "Core",
+    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.22/BepInEx_x64_5.4.22.0.zip"
   },
   {
     "name": "Computer Interface",
@@ -107,14 +165,6 @@
     "download_url": "https://github.com/BzzzThe18th/IronMonkePC/releases/download/1.0.3/IronMonke-v1.0.3.zip"
   },
   {
-    "name": "Newtonsoft.JSON",
-    "author": "James Newton-King",
-    "version": "12.0.3",
-    "git_path": "legoandmars/Newtonsoft.Json",
-    "group": "Libraries",
-    "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
-  },
-  {
     "name": "Rain Toggle",
     "author": "buzzbb",
     "version": "1.0.1",
@@ -124,14 +174,6 @@
     "git_path": "BzzzThe18th/RainToggle",
     "group": "Cosmetic",
     "download_url": "https://github.com/BzzzThe18th/RainToggle/releases/download/1.0.1/RainToggle-v1.0.1.zip"
-  },
-  {
-    "name": "TMPLoader",
-    "author": "ahauntedarmy",
-    "version": "1.0.2",
-    "git_path": "AHauntedArmy/TMPLoader",
-    "group": "Libraries",
-    "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/1.0.2/TMPLoader-v1.0.2.zip"
   },
   {
     "name": "Utilla",
