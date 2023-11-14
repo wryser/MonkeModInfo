@@ -33,7 +33,7 @@ modList.mods.forEach(mod =>
               console.error(error.message);
           };
     });
-  });
+  }));
   https.get(`${prefix}${!isNumeric(mod.gitPath) ? repos : repositories}${mod.gitPath}${postfix}`, { headers: { 'User-Agent' : 'DeadlyKitten/MonkeModInfo' ,'Authorization': `Token ${process.env.SECRET}`}},(res) => {
     let body = "";
 
