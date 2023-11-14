@@ -37,7 +37,7 @@ modList.mods.forEach(mod =>
               'name': mod.name,
               'author': mod.author,
               'version': json.tag_name.replace(/[^\d\n,.]/g,''),
-              'description': JSON.parse(descBody).description,
+              'description': JSON.parse(descBody)["description"],
               'dependencies': mod.dependencies,
               'dependents': mod.dependents,
               'install_location': mod.installPath,
