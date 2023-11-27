@@ -74,19 +74,6 @@
     "download_url": "https://github.com/BrokenSt0ne/GorillaRoulette/releases/download/1.0.3/GorillaRoulette-v1.0.3.zip"
   },
   {
-    "name": "Gorilla Shotgun",
-    "author": "buzzbb",
-    "version": "1.0.1",
-    "dependencies": [
-      "Utilla",
-      "HoneyLib",
-      "ComputerInterface"
-    ],
-    "git_path": "BzzzThe18th/GorillaShotgun",
-    "group": "Gameplay",
-    "download_url": "https://github.com/BzzzThe18th/GorillaShotgun/releases/download/1.0.1/GorillaShotgun-v1.0.1.zip"
-  },
-  {
     "name": "HoneyLib",
     "author": "buzzbb",
     "version": "1.0.9",
