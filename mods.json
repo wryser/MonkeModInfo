@@ -140,8 +140,22 @@
 			"dependencies": [
 				"HoneyLib"
 			]
-		}
-	],
+		},
+		
+	        {
+	        	"name" : "Monke Map Loader",
+	        	"tag" : "",
+	        	"gitPath" : "Vadix88/MonkeMapLoader",
+	        	"releaseId" : 0,
+	        	"author" : "Vadix",
+	        	"group" : "Gameplay",
+	        	"dependencies" : [
+	         	"Newtonsoft.JSON",
+	         	"Utilla",
+	         	"Computer Interface"
+	                ]
+	        }
+,	],
 	"groups": [{
 			"name": "Core",
 			"rank": 0
