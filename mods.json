@@ -154,8 +154,8 @@
 	         	"Utilla",
 	         	"Computer Interface"
 	                ]
-	        }
-,	],
+	        },
+	],
 	"groups": [{
 			"name": "Core",
 			"rank": 0
