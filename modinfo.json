@@ -120,14 +120,6 @@
     "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.2.2/MonkeMapLoader.zip"
   },
   {
-    "name": "Newtonsoft.JSON",
-    "author": "James Newton-King",
-    "version": "12.0.3",
-    "git_path": "legoandmars/Newtonsoft.Json",
-    "group": "Libraries",
-    "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
-  },
-  {
     "name": "Rain Toggle",
     "author": "buzzbb",
     "version": "1.0.1",
