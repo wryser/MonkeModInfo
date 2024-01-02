@@ -1,5 +1,28 @@
 [
   {
+    "name": "Air Jump",
+    "author": "fchb1239",
+    "version": "1.0.4",
+    "dependencies": [
+      "Utilla",
+      "Computer++"
+    ],
+    "git_path": "fchb1239/AirJump",
+    "group": "Gameplay",
+    "download_url": "https://github.com/fchb1239/AirJump/releases/download/1.0.4/AirJump.zip"
+  },
+  {
+    "name": "Bark",
+    "author": "KyleTheScientist",
+    "version": "1.5.1",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "KyleTheScientist/Bark",
+    "group": "Gameplay",
+    "download_url": "https://github.com/KyleTheScientist/Bark/releases/download/v1.5.1/Bark-1.5.1.dll"
+  },
+  {
     "name": "BepInEx",
     "author": "BepInEx Team",
     "version": "5.4.22",
@@ -20,27 +43,12 @@
     "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Bepinject-Auros.zip"
   },
   {
-    "name": "Computer Interface",
-    "author": "tonimacaroni",
-    "version": "1.6.1",
-    "dependencies": [
-      "Bepinject"
-    ],
-    "git_path": "ToniMacaroni/ComputerInterface",
-    "group": "Libraries",
-    "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.6.1/ComputerInterface.zip"
-  },
-  {
-    "name": "Custom Tag Sounds",
-    "author": "buzzbb",
+    "name": "Computer++",
+    "author": "KyleTheScientist",
     "version": "1.0.1",
-    "dependencies": [
-      "HoneyLib",
-      "Utilla"
-    ],
-    "git_path": "BzzzThe18th/CustomTagSounds",
-    "group": "Cosmetic",
-    "download_url": "https://github.com/BzzzThe18th/CustomTagSounds/releases/download/1.0.1/CustomTagSounds-v1.0.1.zip"
+    "git_path": "KyleTheScientist/ComputerPlusPlus",
+    "group": "Libraries",
+    "download_url": "https://github.com/KyleTheScientist/ComputerPlusPlus/releases/download/v1.0.1/ComputerPlusPlus-v1.0.1.dll"
   },
   {
     "name": "Extenject",
@@ -95,18 +103,6 @@
     "download_url": "https://github.com/BzzzThe18th/HoneyLib/releases/download/1.0.9/HoneyLib-v1.0.9.zip"
   },
   {
-    "name": "Iron Monke",
-    "author": "buzzbb",
-    "version": "1.0.3",
-    "dependencies": [
-      "Utilla",
-      "HoneyLib"
-    ],
-    "git_path": "BzzzThe18th/IronMonkePC",
-    "group": "Gameplay",
-    "download_url": "https://github.com/BzzzThe18th/IronMonkePC/releases/download/1.0.3/IronMonke-v1.0.3.zip"
-  },
-  {
     "name": "Monke Map Loader",
     "author": "Vadix",
     "version": "1.2.2",
@@ -126,17 +122,6 @@
     "git_path": "legoandmars/Newtonsoft.Json",
     "group": "Libraries",
     "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
-  },
-  {
-    "name": "Rain Toggle",
-    "author": "buzzbb",
-    "version": "1.0.1",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "BzzzThe18th/RainToggle",
-    "group": "Cosmetic",
-    "download_url": "https://github.com/BzzzThe18th/RainToggle/releases/download/1.0.1/RainToggle-v1.0.1.zip"
   },
   {
     "name": "TMPLoader",
