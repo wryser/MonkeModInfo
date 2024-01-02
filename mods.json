@@ -8,29 +8,6 @@
 			"group": "Core"
 		},
 		{
-			"name": "Rain Toggle",
-			"tag": "",
-			"gitPath": "BzzzThe18th/RainToggle",
-			"releaseId": 0,
-			"author": "buzzbb",
-			"group": "Cosmetic",
-			"dependencies": [
-				"Utilla"
-			]
-		},
-		{
-			"name": "Iron Monke",
-			"tag": "",
-			"gitPath": "BzzzThe18th/IronMonkePC",
-			"releaseId": 0,
-			"author": "buzzbb",
-			"group": "Gameplay",
-			"dependencies": [
-				"Utilla",
-				"HoneyLib"
-			]
-		},
-		{
 			"name": "Gorilla Shotgun",
 			"tag": "",
 			"gitPath": "BzzzThe18th/GorillaShotgun",
@@ -52,14 +29,34 @@
 			"group": "Core"
 		},
 		{
-			"name": "Computer Interface",
+			"name": "Computer++",
 			"tag": "",
-			"gitPath": "ToniMacaroni/ComputerInterface",
+			"gitPath": "KyleTheScientist/ComputerPlusPlus",
 			"releaseId": 0,
-			"author": "tonimacaroni",
-			"group": "Libraries",
+			"author": "KyleTheScientist",
+			"group": "Libraries"
+		},
+		{
+			"name": "Bark",
+			"tag": "",
+			"gitPath": "KyleTheScientist/Bark",
+			"releaseId": 0,
+			"author": "KyleTheScientist",
+			"group": "Gameplay",
 			"dependencies": [
-				"Bepinject"
+				"Utilla"
+			]
+		},
+		{
+			"name": "Air Jump",
+			"tag": "",
+			"gitPath": "fchb1239/AirJump",
+			"releaseId": 0,
+			"author": "fchb1239",
+			"group": "Gameplay",
+			"dependencies": [
+				"Utilla",
+				"Computer++"
 			]
 		},
 		{
@@ -115,18 +112,6 @@
 			"author": "buzzbb",
 			"group": "Cosmetic",
 			"dependencies": [
-				"Utilla"
-			]
-		},
-		{
-			"name": "Custom Tag Sounds",
-			"tag": "",
-			"gitPath": "BzzzThe18th/CustomTagSounds",
-			"releaseId": 0,
-			"author": "buzzbb",
-			"group": "Cosmetic",
-			"dependencies": [
-				"HoneyLib",
 				"Utilla"
 			]
 		},
