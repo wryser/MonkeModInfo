@@ -8,19 +8,6 @@
 			"group": "Core"
 		},
 		{
-			"name": "Gorilla Shotgun",
-			"tag": "",
-			"gitPath": "BzzzThe18th/GorillaShotgun",
-			"releaseId": 0,
-			"author": "buzzbb",
-			"group": "Gameplay",
-			"dependencies": [
-				"Utilla",
-				"HoneyLib",
-              	"ComputerInterface"
-			]
-		},
-		{
 			"name": "Utilla",
 			"tag": "",
 			"gitPath": "legoandmars/Utilla",
@@ -126,20 +113,17 @@
 				"HoneyLib"
 			]
 		},
-		
-	        {
-	        	"name" : "Monke Map Loader",
-	        	"tag" : "",
-	        	"gitPath" : "Vadix88/MonkeMapLoader",
-	        	"releaseId" : 0,
-	        	"author" : "Vadix",
-	        	"group" : "Gameplay",
-	        	"dependencies" : [
-	         	"Newtonsoft.JSON",
-	         	"Utilla",
-	         	"Computer Interface"
-	                ]
-	        }
+		{
+			"name": "Tic Tac Toe",
+			"tag": "",
+			"gitPath": "HuskyGT/TicTacToe",
+			"releaseId": 0,
+			"author": "Husky",
+			"group": "Gameplay",
+			"dependencies": [
+				"Utilla"
+			]
+		}
 	],
 	"groups": [{
 			"name": "Core",
