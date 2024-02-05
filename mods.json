@@ -103,12 +103,12 @@
 			]
 		},
 		{
-		    "name": "bHaptics",
-		    "author": "Florian Fahrenberger",
-		    "version": "3.0.1",
-		    "git_path": "floh_bhaptics/GorillaTag_bhaptics",
-		    "group": "Gameplay",
-		    "download_url": "https://github.com/floh-bhaptics/GorillaTag_bhaptics/releases/latest/download/GorillaTag_bhaptics.zip"
+			"name": "bHaptics",
+			"tag": "",
+			"gitPath": "floh-bhaptics/GorillaTag_bhaptics",
+			"releaseId": "0",
+			"author": "Florian Fahrenberger",
+			"group": "Gameplay"
 		},
 		{
 			"name": "Tic Tac Toe",
