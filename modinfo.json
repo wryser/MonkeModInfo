@@ -112,5 +112,13 @@
     "git_path": "legoandmars/Utilla",
     "group": "Core",
     "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.11/Utilla.zip"
+  },
+  {
+    "name": "bHaptics",
+    "author": "Florian Fahrenberger",
+    "version": "3.0.1",
+    "git_path": "floh-bhaptics/GorillaTag_bhaptics",
+    "group": "Gameplay",
+    "download_url": "https://github.com/floh-bhaptics/GorillaTag_bhaptics/releases/download/v3.0.1/GorillaTag_bhaptics.zip"
   }
 ]
