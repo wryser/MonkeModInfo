@@ -103,15 +103,12 @@
 			]
 		},
 		{
-			"name": "Gorilla Roulette",
-			"tag": "",
-			"gitPath": "BrokenSt0ne/GorillaRoulette",
-			"releaseId": 0,
-			"author": "awesome_phoenix",
-			"group": "Gameplay",
-			"dependencies": [
-				"HoneyLib"
-			]
+		    "name": "bHaptics",
+		    "author": "Florian Fahrenberger",
+		    "version": "3.0.1",
+		    "git_path": "floh_bhaptics/GorillaTag_bhaptics",
+		    "group": "Gameplay",
+		    "download_url": "https://github.com/floh-bhaptics/GorillaTag_bhaptics/releases/latest/download/GorillaTag_bhaptics.zip"
 		},
 		{
 			"name": "Tic Tac Toe",
