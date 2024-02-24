@@ -51,6 +51,26 @@
     "download_url": "https://github.com/KyleTheScientist/ComputerPlusPlus/releases/download/v1.0.1/ComputerPlusPlus-v1.0.1.dll"
   },
   {
+    "name": "Extenject",
+    "author": "svermeulen",
+    "version": "1.0.1",
+    "install_location": "BepInEx/plugins",
+    "git_path": "Auros/Bepinject",
+    "group": "Libraries",
+    "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
+  },
+  {
+    "name": "GOOMPS",
+    "author": "buzzbb",
+    "version": "1.0.1",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "BzzzThe18th/GOOMPS",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/BzzzThe18th/GOOMPS/releases/download/1.0.1/GOOMPS.dll"
+  },
+  {
     "name": "HoneyLib",
     "author": "buzzbb",
     "version": "1.1.0",
