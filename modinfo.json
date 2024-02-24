@@ -1,5 +1,17 @@
 [
   {
+    "name": "Air Jump",
+    "author": "fchb1239",
+    "version": "1.0.4",
+    "dependencies": [
+      "Utilla",
+      "Computer++"
+    ],
+    "git_path": "fchb1239/AirJump",
+    "group": "Gameplay",
+    "download_url": "https://github.com/fchb1239/AirJump/releases/download/1.0.4/AirJump.zip"
+  },
+  {
     "name": "Bark",
     "author": "KyleTheScientist",
     "version": "1.5.1",
@@ -29,6 +41,14 @@
     "git_path": "Auros/Bepinject",
     "group": "Libraries",
     "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Bepinject-Auros.zip"
+  },
+  {
+    "name": "Computer++",
+    "author": "KyleTheScientist",
+    "version": "1.0.1",
+    "git_path": "KyleTheScientist/ComputerPlusPlus",
+    "group": "Libraries",
+    "download_url": "https://github.com/KyleTheScientist/ComputerPlusPlus/releases/download/v1.0.1/ComputerPlusPlus-v1.0.1.dll"
   },
   {
     "name": "Extenject",
@@ -92,5 +112,13 @@
     "git_path": "legoandmars/Utilla",
     "group": "Core",
     "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.12/Utilla.zip"
+  },
+  {
+    "name": "bHaptics",
+    "author": "Florian Fahrenberger",
+    "version": "3.0.1",
+    "git_path": "floh-bhaptics/GorillaTag_bhaptics",
+    "group": "Gameplay",
+    "download_url": "https://github.com/floh-bhaptics/GorillaTag_bhaptics/releases/download/v3.0.1/GorillaTag_bhaptics.zip"
   }
 ]
