@@ -97,13 +97,13 @@
   {
     "name": "Tic Tac Toe",
     "author": "Husky",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "dependencies": [
       "Utilla"
     ],
     "git_path": "HuskyGT/TicTacToe",
     "group": "Gameplay",
-    "download_url": "https://github.com/HuskyGT/TicTacToe/releases/download/1.0.1/TicTacToe.dll"
+    "download_url": "https://github.com/HuskyGT/TicTacToe/releases/download/1.0.2/TicTacToe.dll"
   },
   {
     "name": "Utilla",
