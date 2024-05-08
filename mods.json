@@ -66,7 +66,7 @@
 			"gitPath": "BzzzThe18th/GOOMPS",
 			"releaseId": 0,
 			"author": "buzzbb",
-			"group": "Cosmetic",
+			"group": "Tweaks / Tools",
 			"dependencies": [
 				"Utilla"
 			]
@@ -77,7 +77,7 @@
 			"gitPath": "floh-bhaptics/GorillaTag_bhaptics",
 			"releaseId": "0",
 			"author": "Florian Fahrenberger",
-			"group": "Gameplay"
+			"group": "Tweaks / Tools"
 		},
 		{
 			"name": "Tic Tac Toe",
@@ -96,7 +96,7 @@
 			"gitPath": "LIV/SpatialGorilla",
 			"releaseId": "0",
 			"author": "LIV",
-			"group": "Camera",
+			"group": "Tweaks / Tools",
 			"dependencies": [
 				"Utilla"
 			]
@@ -119,12 +119,8 @@
 			"rank": 3
 		},
 		{
-			"name": "Camera",
-			"rank": 4
-		},
-		{
 			"name": "Libraries",
-			"rank": 5
+			"rank": 4
 		}
 	]
 }
