@@ -92,7 +92,7 @@
 		},
 		{
 			"name": "Spatial Gorilla",
-			"tag": "",
+			"tag": "v0.1.0",
 			"gitPath": "LIV/SpatialGorilla",
 			"releaseId": 0,
 			"author": "LIV",
