@@ -16,37 +16,6 @@
 			"group": "Core"
 		},
 		{
-			"name": "Computer++",
-			"tag": "",
-			"gitPath": "KyleTheScientist/ComputerPlusPlus",
-			"releaseId": 0,
-			"author": "KyleTheScientist",
-			"group": "Libraries"
-		},
-		{
-			"name": "Bark",
-			"tag": "",
-			"gitPath": "KyleTheScientist/Bark",
-			"releaseId": 0,
-			"author": "KyleTheScientist",
-			"group": "Gameplay",
-			"dependencies": [
-				"Utilla"
-			]
-		},
-		{
-			"name": "Air Jump",
-			"tag": "",
-			"gitPath": "fchb1239/AirJump",
-			"releaseId": 0,
-			"author": "fchb1239",
-			"group": "Gameplay",
-			"dependencies": [
-				"Utilla",
-				"Computer++"
-			]
-		},
-		{
 			"name": "HoneyLib",
 			"tag": "",
 			"gitPath": "BzzzThe18th/HoneyLib",
