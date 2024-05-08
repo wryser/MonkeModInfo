@@ -4,7 +4,7 @@ const fs = require('fs');
 const prefix = 'https://api.github.com/';
 const repos = 'repos/';
 const repositories = 'repositories/';
-const postfix = '/releases/latest';
+const postfix = 'latest';
 
 let inputJSON = fs.readFileSync('mods.json');
 let modList = JSON.parse(inputJSON);
@@ -15,7 +15,7 @@ function isNumeric(value) {
 }
 
 modList.mods.forEach(mod => 
-  https.get(`${prefix}${!isNumeric(mod.gitPath) ? repos : repositories}${mod.gitPath}${postfix}`, { headers: { 'User-Agent' : 'DeadlyKitten/MonkeModInfo' ,'Authorization': `Token ${process.env.SECRET}`}},(res) => {
+  https.get(`${prefix}${!isNumeric(mod.gitPath) ? repos : repositories}/releases/${mod.gitPath}${mod.tag ? mod.tag : postfix}`, { headers: { 'User-Agent' : 'DeadlyKitten/MonkeModInfo' ,'Authorization': `Token ${process.env.SECRET}`}},(res) => {
     let body = "";
 
       res.on("data", (chunk) => {
