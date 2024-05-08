@@ -120,6 +120,17 @@
 			"dependencies": [
 				"Utilla"
 			]
+		},
+		{
+			"name": "Spatial Gorilla",
+			"tag": "",
+			"gitPath": "LIV/SpatialGorilla",
+			"releaseId": "0",
+			"author": "LIV",
+			"group": "Camera",
+			"dependencies": [
+				"Utilla"
+			]
 		}
 	],
 	"groups": [{
@@ -139,8 +150,12 @@
 			"rank": 3
 		},
 		{
-			"name": "Libraries",
+			"name": "Camera",
 			"rank": 4
+		},
+		{
+			"name": "Libraries",
+			"rank": 5
 		}
 	]
 }
