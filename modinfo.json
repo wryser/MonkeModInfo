@@ -36,7 +36,7 @@
       "Utilla"
     ],
     "git_path": "BzzzThe18th/GOOMPS",
-    "group": "Cosmetic",
+    "group": "Tweaks / Tools",
     "download_url": "https://github.com/BzzzThe18th/GOOMPS/releases/download/1.0.1/GOOMPS.dll"
   },
   {
@@ -87,7 +87,7 @@
     "author": "Florian Fahrenberger",
     "version": "3.0.1",
     "git_path": "floh-bhaptics/GorillaTag_bhaptics",
-    "group": "Gameplay",
+    "group": "Tweaks / Tools",
     "download_url": "https://github.com/floh-bhaptics/GorillaTag_bhaptics/releases/download/v3.0.1/GorillaTag_bhaptics.zip"
   }
 ]
