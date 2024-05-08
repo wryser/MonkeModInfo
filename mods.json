@@ -75,7 +75,7 @@
 			"name": "bHaptics",
 			"tag": "",
 			"gitPath": "floh-bhaptics/GorillaTag_bhaptics",
-			"releaseId": "0",
+			"releaseId": 0,
 			"author": "Florian Fahrenberger",
 			"group": "Tweaks / Tools"
 		},
@@ -94,7 +94,7 @@
 			"name": "Spatial Gorilla",
 			"tag": "",
 			"gitPath": "LIV/SpatialGorilla",
-			"releaseId": "0",
+			"releaseId": 0,
 			"author": "LIV",
 			"group": "Tweaks / Tools",
 			"dependencies": [
