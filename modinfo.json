@@ -89,5 +89,21 @@
     "git_path": "floh-bhaptics/GorillaTag_bhaptics",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/floh-bhaptics/GorillaTag_bhaptics/releases/download/v3.0.1/GorillaTag_bhaptics.zip"
+  },
+    {
+    "name": "Custom Cosmetics",
+    "author": "wryser",
+    "version": "1.2.3",
+    "git_path": "wryser/CustomCosmetics",
+    "group": "Cosmetics",
+    "download_url": "https://github.com/wryser/CustomCosmetics/releases/latest/download/CustomCosmetics.zip"
+  },
+    {
+    "name": "Banana OS",
+    "author": "Husky",
+    "version": "1.0.5",
+    "git_path": "HuskyGT/Banana-OS",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/HuskyGT/Banana-OS/releases/latest/download/BananaOS.dll"
   }
 ]
