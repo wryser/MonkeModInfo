@@ -94,6 +94,9 @@
     "name": "Custom Cosmetics",
     "author": "wryser",
     "version": "1.2.3",
+    "dependencies": [
+      "Banana OS"
+    ],
     "git_path": "wryser/CustomCosmetics",
     "group": "Cosmetics",
     "download_url": "https://github.com/wryser/CustomCosmetics/releases/latest/download/CustomCosmetics.zip"
